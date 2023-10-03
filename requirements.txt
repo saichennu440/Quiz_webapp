@@ -1,0 +1,7 @@
+file organize pattern 
+	--homepage.html
+	--style.css
+	--script.js
+	--logo.png
+compiler--visual studio code
+browser -- edge / chrome / firefox
